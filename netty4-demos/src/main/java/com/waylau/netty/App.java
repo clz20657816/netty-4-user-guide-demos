@@ -1,7 +1,7 @@
 package com.waylau.netty;
 
 /**
- * Hello world!
+ * Hello world! Nice to meet you
  *
  */
 public class App 
